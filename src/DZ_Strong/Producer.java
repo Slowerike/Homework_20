@@ -1,6 +1,8 @@
+package DZ_Strong;
+
 import java.util.Random;
 
-class Producer extends Thread {
+public class Producer extends Thread {
     private Store store;
     private static final Random random = new Random();
 

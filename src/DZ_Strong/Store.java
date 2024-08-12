@@ -1,4 +1,6 @@
-class Store {
+package DZ_Strong;
+
+public class Store {
     private int products = 0;
     private static final int MAX_PRODUCTS = 3;
 

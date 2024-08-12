@@ -1,3 +1,5 @@
+package DZ_Strong;
+
 import java.util.Random;
 
 public class Consumer extends Thread {
